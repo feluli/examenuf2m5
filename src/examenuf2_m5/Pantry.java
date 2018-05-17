@@ -26,7 +26,6 @@ public class Pantry {
 
     /**
      * Metode que imprimeix els pots amb la seva informació
-     * @see Jam.java
      */
     public void print() {
         System.out.print("1: ");
@@ -53,7 +52,6 @@ public class Pantry {
 
     /**
      * Metode per omplir els pots amb mermelada
-     * @see Jam.java
      * @param oz variable amb la quantitat de mermelada
      */
     public void spread(int oz) {

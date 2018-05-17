@@ -34,7 +34,6 @@ public class Jam {
 
     /**
      * Imprimeix la informació de la mermelada
-     * @see Pantry.java
      */
     public void print() {
         System.out.println(contents + " " + date + " " + capacity + " fl. oz.");

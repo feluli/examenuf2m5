@@ -11,8 +11,6 @@ public class PantryTester2 {
     /**
      * 
      * @param args
-     * @see Jam.java
-     * @see Pantry.java
      */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
